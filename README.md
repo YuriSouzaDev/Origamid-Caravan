@@ -5,7 +5,7 @@ Projeto feito em curso da Origamid. Todos os direitos reservados para layout.
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/121251814/246712822-a2561817-9206-4687-95a7-aacd287bd1c7.png)
+![App Screenshot](https://user-images.githubusercontent.com/121251814/246714754-0a28c0d1-7ffd-447e-91cc-1c3fbfdbf02f.png)
 
 # Minhas considerações
 
